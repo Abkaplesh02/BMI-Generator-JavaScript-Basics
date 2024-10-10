@@ -1,0 +1,25 @@
+/* Navigation */
+.Navigation{
+background-color: lightgray;
+display: flex;
+justify-content: center;
+height: 30px;
+width: 100vw;
+margin: -8px;
+}
+
+.Navigation a{
+    background-color: grey;
+    text-decoration: none;
+    color: black;
+    border: 2px black solid;
+    padding-right: 20px;
+    padding-left: 20px;
+}
+
+.Main{
+    height: 100vh;
+    width: 100vw;
+    background-color: lightblue;
+    text-align: center;
+}
